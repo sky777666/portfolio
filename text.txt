@@ -1,0 +1,394 @@
+{/* Three  */}
+
+
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>CoronaVirus Run </h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<ul class="actions stacked">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+					</section>
+
+				{/* Four  */}
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>My Resume</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+							<ul class="actions stacked">
+								<li><a href="#" class="button">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="" />
+						</div>
+					</section>
+
+				{/* <!-- Five --> */}
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>I have worked with the following Tecknologies. </h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+						</div>
+
+						{/* Gallery  */}
+							<div class="gallery style2 medium lightbox onscroll-fade-in">
+								<article>
+									<a href="images/gallery/fulls/01.jpg" class="image">
+										<img src="images/gallery/thumbs/01.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Ipsum Dolor</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/02.jpg" class="image">
+										<img src="images/gallery/thumbs/02.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Feugiat Lorem</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/03.jpg" class="image">
+										<img src="images/gallery/thumbs/03.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Magna Amet</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/04.jpg" class="image">
+										<img src="images/gallery/thumbs/04.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Sed Tempus</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/05.jpg" class="image">
+										<img src="images/gallery/thumbs/05.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Ultrices Magna</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/06.jpg" class="image">
+										<img src="images/gallery/thumbs/06.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Sed Tempus</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/07.jpg" class="image">
+										<img src="images/gallery/thumbs/07.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Ipsum Lorem</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/08.jpg" class="image">
+										<img src="images/gallery/thumbs/08.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Magna Risus</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/09.jpg" class="image">
+										<img src="images/gallery/thumbs/09.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Tempus Dolor</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/10.jpg" class="image">
+										<img src="images/gallery/thumbs/10.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Sed Etiam</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/11.jpg" class="image">
+										<img src="images/gallery/thumbs/11.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Magna Lorem</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
+									<a href="images/gallery/fulls/12.jpg" class="image">
+										<img src="images/gallery/thumbs/12.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Ipsum Dolor</h3>
+										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+							</div>
+
+					</section>
+
+				
+
+				{/* Contact */}
+					<section class="wrapper style1 align-center">
+						<div class="inner medium">
+							<h2>Get in touch</h2>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field half">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" value="" />
+									</div>
+									<div class="field half">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" value="" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="6"></textarea>
+									</div>
+								</div>
+								<ul class="actions special">
+									<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+
+						</div>
+					</section>
+
+				{/* Footer  */}
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; Luke Myers 2020: <a href=""></a></p>
+						</div>
+					</footer>
+
+			</div>
+
+		{/* Scripts  */}
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+
+
+
+/////////////////////////css/   css 
+
+
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		border: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 400;
+		letter-spacing: 0.125em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+		font-size: 0.75rem;
+		max-width: 20rem;
+		height: 3.75em;
+		line-height: 3.75em;
+		border-radius: 3.75em;
+		padding: 0 2.5em;
+		text-overflow: ellipsis;
+		overflow: hidden;
+	}
+
+		input[type="submit"].icon:before,
+		input[type="reset"].icon:before,
+		input[type="button"].icon:before,
+		button.icon:before,
+		.button.icon:before {
+			margin-right: 0.5rem;
+		}
+
+		input[type="submit"].fit,
+		input[type="reset"].fit,
+		input[type="button"].fit,
+		button.fit,
+		.button.fit {
+			width: 100%;
+		}
+
+		input[type="submit"].small,
+		input[type="reset"].small,
+		input[type="button"].small,
+		button.small,
+		.button.small {
+			font-size: 0.6rem;
+			height: 3.325em;
+			line-height: 3.325em;
+			border-radius: 3.325em;
+			padding: 0 2em;
+		}
+
+		input[type="submit"].large,
+		input[type="reset"].large,
+		input[type="button"].large,
+		button.large,
+		.button.large {
+			font-size: 0.8rem;
+			height: 4em;
+			line-height: 4em;
+			border-radius: 4em;
+			padding: 0 3em;
+		}
+
+		input[type="submit"].wide,
+		input[type="reset"].wide,
+		input[type="button"].wide,
+		button.wide,
+		.button.wide {
+			min-width: 14em;
+		}
+
+		input[type="submit"].disabled, input[type="submit"]:disabled,
+		input[type="reset"].disabled,
+		input[type="reset"]:disabled,
+		input[type="button"].disabled,
+		input[type="button"]:disabled,
+		button.disabled,
+		button:disabled,
+		.button.disabled,
+		.button:disabled {
+			pointer-events: none;
+			opacity: 0.25;
+		}
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		background-color: transparent;
+		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+		color: #000000 !important;
+	}
+
+		input[type="submit"]:hover,
+		input[type="reset"]:hover,
+		input[type="button"]:hover,
+		button:hover,
+		.button:hover {
+			box-shadow: inset 0 0 0 1px #47D3E5;
+			color: #47D3E5 !important;
+		}
+
+		input[type="submit"]:active,
+		input[type="reset"]:active,
+		input[type="button"]:active,
+		button:active,
+		.button:active {
+			background-color: rgba(71, 211, 229, 0.2);
+			box-shadow: inset 0 0 0 1px #47D3E5;
+			color: #47D3E5 !important;
+		}
+
+		input[type="submit"].primary,
+		input[type="reset"].primary,
+		input[type="button"].primary,
+		button.primary,
+		.button.primary {
+			background-color: #000000;
+			box-shadow: none;
+			color: #ffffff !important;
+		}
+
+			input[type="submit"].primary:hover,
+			input[type="reset"].primary:hover,
+			input[type="button"].primary:hover,
+			button.primary:hover,
+			.button.primary:hover {
+				background-color: #47D3E5;
+			}
+
+			input[type="submit"].primary:active,
+			input[type="reset"].primary:active,
+			input[type="button"].primary:active,
+			button.primary:active,
+			.button.primary:active {
+				background-color: #1ebdd1;
+			}

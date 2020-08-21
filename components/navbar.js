@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import styles from '../components/navbar.module.css'
 import {useEffect} from 'react'
 
 
@@ -11,22 +12,15 @@ export default function Navbar() {
     // }, [])
 
     return (
-        <div>
+        <div className={styles.navbar}>
             <Head>
                 <title>Myers Portfolio</title>
             </Head>
-            <navbar>
-                <ul>
-                    <li>
-                        <Link href="">
-                            <a>Home</a>
-                        </Link>
-
-                        </li>
-
-                    <li>
-                        <Link href="">
-                            <a>About</a>
+            <navbar >
+                <ul className={styles.navbar}>
+                    <li className={styles.li1}>
+                        <Link href="/">
+                            <a>Luke Myers </a>
                         </Link>
                     </li>
                 </ul>
