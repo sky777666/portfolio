@@ -8,8 +8,25 @@ body {
 }
 
 
+.navbar{
+display: flex;
+justify-content: space-evenly;
+
+}
 
 
+li {
+ display: inline;	 
+	padding: 3px;	
+	padding-top: 5px;
+}
+
+.linkedin{
+	float: left;
+}
+.right {
+	float: right;
+}
 
 /* .navbar {
   background-color: blue;
@@ -160,7 +177,34 @@ ul{
 
 .content {
 	color: rgb(53, 46, 46);
+	padding-top: 10%;
+	
+	
+	
 } 
+.content2 {
+	order:2;
+	padding-top: 10%;
+}
+
+/* image{
+	height: 200px;
+	width: 200px;
+	padding: 10px;
+} */
+.picture3{
+position: relative;
+left:5%;
+order:1;
+}
+
+.projects{
+	display: flex;
+	justify-content: space-between;
+	padding-right: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
 
  html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,

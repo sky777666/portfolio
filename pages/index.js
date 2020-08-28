@@ -1,13 +1,21 @@
+// import React, { useEffect } from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Navbar from '../components/navbar'
 import Cards from '../components/cards'
 import Namebox from '../components/namebox'
 import Mainpage from '../components/mainpage'
-
+import Skills from '../components/skills'
 
 export default function Home() {
+  
+  // useEffect(() => {
+  //   document.body.style.backgroundColor = '#546b79'
+  // })
+  
   return (
+
+
     <div>
     {/* <div className={styles.container}> */}
       <Head>
@@ -17,13 +25,21 @@ export default function Home() {
       <Navbar />
       <Namebox />
       
-
-    <section className={styles.sectionmain}> </section>
+      
+    <section className={styles.sectionmain}> 
+    </section>
     <section className={styles.sectionmain2}> 
+    
         <div className={styles.iammain} >
+       
         <h2> I am a software engineer with a passion for collaborating with clients, designers, and writing scalable backend to frontend solutions in JavaScript, React.js, Express, and SQL. </h2>
+       
         </div>
     </section>
+    {/* <section className={styles.section0}> 
+        <h1> SKILLS</h1>
+        <Skills />
+    </section> */}
     {/* <section className={styles.sectionmain3}> <div class="button2"><p> MY PROJECTS </p></div> </section> */}
     <section className={styles.sectionmain3}> 
     <h2 className={styles.myprojectsname}> MY PROJECTS </h2> </section>
@@ -37,6 +53,7 @@ export default function Home() {
           <h1 className={styles.title}>
              <div href="">ABOUT ME </div>
           </h1>
+        
           <ul>
             <li></li>
             <li></li>
@@ -49,9 +66,8 @@ export default function Home() {
                   <p className={styles.description}>My favorite artist is the American artist, Alex Grey. I have a passion for music and I think music video's are an amazing means of expression. I am very interested in the study of spirituality and the human mind and I am also author of the book, " Gnostic Visions."</p>
                 </div>
                 {/* </div> */}
-                <a href="https://www.linkedin.com/in/luke-myers-5176022a/"className={styles.card}>
-                <p> LEARN MORE </p>
-                </a> 
+                <a href="https://www.barnesandnoble.com/w/gnostic-visions-luke-a-myers/1100379060?ean=9781462005482"className={styles.card}>
+            <h5> BUY MY BOOK  </h5> </a> 
 
 
 
@@ -64,9 +80,11 @@ export default function Home() {
                 </div>
                       {/* <button> LEARN MORE </button> */}
               {/* </div> */}
-           <a href="https://www.barnesandnoble.com/w/gnostic-visions-luke-a-myers/1100379060?ean=9781462005482"className={styles.card}>
-            <p> LEARN MORE </p>
-          </a> 
+              <a href="https://www.linkedin.com/in/luke-myers-5176022a/"className={styles.card3}>
+                {/* <h5> LinkedIn </h5> */}
+                <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                </a> 
+              
         </main>
       </section>
 
