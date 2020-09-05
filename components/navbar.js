@@ -20,9 +20,10 @@ export default function Navbar() {
                 <ul className={styles.navbar}>
                     <li className={styles.li1}>
                         <Link href="/">
-                            <a>Luke Myers </a>
+                            <a>Portfolio</a>
                         </Link>
                     </li>
+
                 </ul>
             </navbar>
         </div>

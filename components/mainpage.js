@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import { Fade } from "react-awesome-reveal";
 
 export default function mainpage() {
 
@@ -16,8 +17,9 @@ export default function mainpage() {
         </Head>
 
         {/* <!-- One --> */}
-
+		
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+					
 						<div class="content">
 							<h2>SkyTracker</h2>
 							<p className={styles.description1}>Skytracker is a full stack web application made to track, blog, and take community comments on the International Space Station. The application uses three API ’s. 1) Mapbox 2) NASA ISS location api and 3) The cloudinary api so users can upload  pictures. Skytracker is a fullstack Javascript application using Javascript, and Node.js. It also uses Postgres DB with sequelize ORM. Express for routing and Axios for CRUD calls. Rendering is powered with HTML, CSS and EJS. The application presents fully functional authentication with passport for token based authorization and  Brypt  encryption. Feel free to see my GitHub to view the package.json for full list on npm packages. </p>
@@ -25,11 +27,14 @@ export default function mainpage() {
 								<li><a href="https://seir-skytracker.herokuapp.com/" class="button">LEARN MORE</a></li>
 							</ul>
 						</div>
+					
+						
 						<div class="image">
 							<img src="https://i.imgur.com/8LW5ksh.jpg" alt="" />
 						</div>
+					
 					</section>
-	
+				
 					<hr></hr>
 
 
