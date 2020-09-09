@@ -29,7 +29,7 @@ export default function mainpage() {
 							</ul>
 						</div>
 						<div>
-							<img src="https://i.imgur.com/8LW5ksh.jpg" alt=""  width="550px" height="450px"/>
+							<img class="box" src="https://i.imgur.com/8LW5ksh.jpg" alt=""  width="550px" height="450px"/>
 						</div>
 					
 					</section>
@@ -47,7 +47,7 @@ export default function mainpage() {
 							</ul>
 						</div>
 						<div>
-							<img src="https://i.imgur.com/tRePgVE.jpg" width="550vw" height="450vw" alt="" />
+							<img class="box"  src="https://i.imgur.com/tRePgVE.jpg" width="550vw" height="450vw" alt="" />
 						</div>
 					</section>
 				
@@ -65,7 +65,7 @@ export default function mainpage() {
 						</div>
 						<div>
 							{/* <img src="https://i.imgur.com/Ztrx4Ae.jpg" width="500px" height="400px" alt="picture of a face with resume" /> */}
-							<img src="https://i.imgur.com/xl5XJFs.png" padding="20px"/>
+							<img class="box2"  src="https://i.imgur.com/xl5XJFs.png" padding="20px"/>
 						</div>
 					</section>
 
