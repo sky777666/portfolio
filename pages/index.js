@@ -72,11 +72,11 @@ export default function Home() {
                   <p className={styles.description}>My favorite artist is the American artist, Alex Grey. I have a passion for music and I think music video's are an amazing means of expression. I am very interested in the study of spirituality and the human mind and I am also author of the book, " Gnostic Visions."</p>
                 </div>
                 
-                {/* </div> */}
+                
                 <a href="https://www.barnesandnoble.com/w/gnostic-visions-luke-a-myers/1100379060?ean=9781462005482"className={styles.card}>
+               
             <h5> BUY MY BOOK  </h5> </a> 
-
-
+           
 
              
             <div className={styles.grid}>
