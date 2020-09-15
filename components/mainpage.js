@@ -40,7 +40,7 @@ export default function mainpage() {
 					<section class="projects">
 						<div class="content">
 							<h2>CoronaVirus Run </h2>
-							<p className={styles.description1}>CoronaVirus run is a progressive runner video game made with JavaSctipt, Jqerry as well as  HTML and CSS.</p>
+							<p className={styles.description1}>CoronaVirus run is a progressive runner video game made with JavaSctipt, jQuery as well as  HTML and CSS.</p>
 							<ul class="actions stacked">
 								<li><a href="https://sky777666.github.io/Corona-Virus-Run---The-Game/" class="button">PLAY LIVE </a></li>
 							</ul>
