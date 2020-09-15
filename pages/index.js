@@ -10,6 +10,8 @@ import { FaGithub } from 'react-icons/fa'
 import { FaLinkedin } from 'react-icons/fa';
 import { FaFile } from 'react-icons/fa'
 import { AiOutlineMail } from "react-icons/ai";
+import ContactUs from '../components/ContactUs'
+
 
 export default function Home() {
   
@@ -114,13 +116,19 @@ export default function Home() {
                  <a href="static/Luke Myers Resume 2020 .pdf" >
                      <FaFile size={50} color={'white'} />
                  </a>
-                 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=luke.homesmart@gmail.com" target="_blank" className={styles.links}> <AiOutlineMail size={50} color={'white'} />     </a>       
+                 {/* <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=luke.homesmart@gmail.com" target="_blank" className={styles.links}> <AiOutlineMail size={50} color={'white'} />     </a>        */}
                  </div>
                
 
         </main>
       </section>
 
+                 <section>
+
+        <div className={styles.contactForm}>
+            <ContactUs />
+        </div>
+                 </section>
       <Cards />
 
 

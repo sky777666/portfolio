@@ -38,7 +38,6 @@ export default function mainpage() {
 
 
 					<section class="projects">
-        {/* <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in"> */}
 						<div class="content">
 							<h2>CoronaVirus Run </h2>
 							<p className={styles.description1}>CoronaVirus run is a progressive runner video game made with JavaSctipt, Jqerry as well as  HTML and CSS.</p>
@@ -68,8 +67,24 @@ export default function mainpage() {
 							<img class="box2"  src="https://i.imgur.com/xl5XJFs.png" padding="20px"/>
 						</div>
 					</section>
-
-
+					<section class="projects">
+						<div class="content">
+							<h2>Micro Life </h2>
+							<p className={styles.description1}> Made with the React framework Next.js. This website is 100% server side rendered. 
+							It is fast, responsive and full of animations, video and educational information. 
+							This site includes 5 different API’s  which are 1) NASA picture of the day API 
+							2) Mars Weather API plugin 
+							3) Upsplash pictures API 4) Hacker News API  5) EmailJS api</p>
+							<ul class="actions stacked">
+								<li><a href="https://micro-life.vercel.app/" class="button">SEE LIVE </a></li>
+							</ul>
+						</div>
+						<div>
+							<img class="box"  src="https://i.imgur.com/jD6gvU5.png" width="550vw" height="450vw" alt="" />
+						</div>
+					</section>
+				
+					<hr></hr>
 
 </>
     )
