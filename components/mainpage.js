@@ -69,18 +69,16 @@ export default function mainpage() {
 					</section>
 					<section class="projects">
 						<div class="content">
-							<h2>Micro Life </h2>
-							<p className={styles.description1}> Made with the React framework Next.js. This website is 100% server side rendered. 
-							It is fast, responsive and full of animations, video and educational information. 
-							This site includes 5 different API’s  which are 1) NASA picture of the day API 
-							2) Mars Weather API plugin 
-							3) Upsplash pictures API 4) Hacker News API  5) EmailJS api</p>
+							<h2>Pressert Marketing </h2>
+							<p className={styles.description1}> The Pressert Marketing website is a multi-page site that is mobile responsive with leading edge 
+                            graphics and web design practices. Feel free to explore and see all of the pages that I built.  </p>
 							<ul class="actions stacked">
-								<li><a href="https://micro-life.vercel.app/" class="button">SEE LIVE </a></li>
+								<li><a href="https://pressertmarketing.com/" class="button">SEE LIVE </a></li>
 							</ul>
 						</div>
 						<div>
-							<img class="box"  src="https://i.imgur.com/jD6gvU5.png" width="550vw" height="450vw" alt="" />
+						<img class="box"  src="https://www.turlockcitynews.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-14-at-10.03.04-PM.png" width="550vw" height="450vw" alt="" /> 
+							
 						</div>
 					</section>
 				
