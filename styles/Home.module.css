@@ -6,7 +6,13 @@
   justify-content: center;
   align-items: center;
   z-index: 1;
+
 }
+
+
+
+
+
 
 
 /*   Main Home Page About Cards ------------- */
@@ -18,6 +24,7 @@
   justify-content: space-evenly;
   align-items: row;
   font-size: 2.5rem;
+  
 }
 
 
@@ -45,31 +52,6 @@
   align-items: center;
 }
 
-.footer {
-  width: 100%;
-  height: 100px;
-  border-top: 1px solid blue;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-}
-
-.footer img {
-  margin-left: 5rem;  
-}
-
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: x-large;
-  width: 100%;
-}
-
-.footer a:hover {
-  background-color: white;
-  border: white;
-}
 
 .title a {
   color: #0070f3;
@@ -101,6 +83,7 @@
 .description1 {
   line-height: 1.2;
   font-size: 2.1rem;
+  padding: 20px;
 }
 
 .code {
@@ -133,7 +116,28 @@
   border: 1px solid #eaeaea;
    border-radius: 10px; 
   transition: color 0.15s ease, border-color 0.15s ease;
+  display: flex;
+  justify-content: center;
+  
 } 
+
+.card3 {
+  margin: 1rem;
+  flex-basis: 20%;
+  padding: 1.5rem;
+  /* text-align: left;
+  font-size: x-large;
+  color: inherit; */
+  height: 75px;
+  width: 75px;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+   border-radius: 10px; 
+  transition: color 0.15s ease, border-color 0.15s ease;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
 
 /* .card:hover,
 .card:focus,
@@ -207,6 +211,15 @@
 .myprojectsname {
   color: #1d80e8;
 }
+
+
+.project{
+  height:200px;
+  width: 100%;
+}
+
+
+
 
 /*  STYLE FOR LUKE NAME - ANIMATION - BOX */
 
